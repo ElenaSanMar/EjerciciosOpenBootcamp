@@ -1,4 +1,4 @@
-public class EjT3{
+public class Main {
     public static void main(String[] args) {
         int resultado = suma(1, 2, 3);
         System.out.print("El valor de la suma es: ");
